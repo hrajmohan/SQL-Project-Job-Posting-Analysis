@@ -1,6 +1,6 @@
 /*
 Question 2: What skills are needed for top paying remote data analyst jobs? 
-Get the other job posting details and anything else from Query 1. 
+Get other job posting details and anything else from Query 1. 
 */
 
 with top_paying_da_jobs as (
