@@ -27,6 +27,7 @@ limit 10;
 
 
 
+
 /* 
 Wide Salary Range: The salaries from the top 10 Data Analyst roles range from $184K to $650K. 
 Diverse Employers: This list is not dominated by any single company, as SmartAsset is the only company with multiple postings in this list. 
