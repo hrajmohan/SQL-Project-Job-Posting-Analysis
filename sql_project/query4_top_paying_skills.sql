@@ -17,7 +17,6 @@ limit 25
 
 
 
-
 /*
 Here's a breakdown of the results for top paying skills for Data Analysts:
 - High Demand for Big Data & ML Skills: Top salaries are commanded by analysts skilled in big data technologies (PySpark, Couchbase), machine learning tools (DataRobot, Jupyter), and Python libraries (Pandas, NumPy), reflecting the industry's high valuation of data processing and predictive modeling capabilities.
